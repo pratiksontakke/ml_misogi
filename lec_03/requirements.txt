@@ -1,0 +1,16 @@
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+
+# pandas → loading, cleaning, exploring data
+# numpy → math & arrays
+# matplotlib + seaborn → plotting (heatmaps, scatter, etc.)
+# scikit-learn → splitting data, scaling, regression models
+# jupyter + ipykernel → to run notebooks interactively
+
